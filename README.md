@@ -3,7 +3,7 @@
 
 ### Instructions to set up the project locally 
 1. Please use code editor like Eclipse 
-2. Import the project from git using url - [https://github.com/rashmipatt/acod]
+2. Import the project from git using url - [https://github.com/rashmipatt/apodsubmission]
 3. Code editor need to have maven plug in 
 4. Right click on pom.xml and update the project
 5. Go to testng.xml and create run configurations, 
